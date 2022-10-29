@@ -1,0 +1,9 @@
+.AddDefaulterContainer{
+    margin: 5px 0 15px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.AddDefaulterContainer span{
+    margin: 5px;
+}

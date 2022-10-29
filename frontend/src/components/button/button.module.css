@@ -1,0 +1,32 @@
+.button{
+ border: none;
+ cursor: pointer;
+ background-color: transparent;
+ border-radius: 3px;
+ font-size: 13px;
+ font-weight: normal;
+ text-decoration: none;
+ padding: 14px 24px;
+}
+
+.primary {
+  color: #fff;
+  background-color: #5f7d95;
+  border: 1px solid transparent; 
+  padding: 0.7em;
+}
+
+.warning {
+  color: #fff;
+  background-color: rgb(206, 131, 131);
+  border: 1px solid transparent;
+ 
+  padding: 0.7em;
+
+}
+
+.fa {
+  margin-left: -11px;
+  margin-right: 8px;
+}
+

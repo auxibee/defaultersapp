@@ -1,0 +1,41 @@
+.authContainer {
+    width: 350px;
+    margin: 50px auto;
+    padding: 10px;
+    background: #eff0f1;
+}
+
+
+.authContainer label{
+   display: block;
+   padding: 10px 0 5px 0; 
+}
+
+.authContainer input,
+.authContainer button{
+    width: 300px;
+}
+
+.authContainer input{
+    display: block;
+    padding: 5px;
+}
+
+.submitBtn{
+    margin-top: 10px;
+    padding: 5px;
+}
+
+.formHeader {
+    width: 350px;
+    margin: 50px auto;
+}
+
+.formHeader h3 {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.authContainer a {
+    margin: 10px 0 10px 0;
+}

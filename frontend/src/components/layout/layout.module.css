@@ -1,0 +1,20 @@
+.container{
+    display: grid;
+    grid-template-areas: 
+    'header'
+    'main';
+    gap: 1em;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 10px 0 10px;
+    
+}
+
+header{
+    grid-area: header;
+}
+
+main {
+    grid-area: main;
+}
+

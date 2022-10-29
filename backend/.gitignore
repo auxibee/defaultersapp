@@ -1,0 +1,7 @@
+.env
+__pycache__
+site.db
+testing.db
+env
+init_db.py
+.idea

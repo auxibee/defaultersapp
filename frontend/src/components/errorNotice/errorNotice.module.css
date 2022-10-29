@@ -1,0 +1,6 @@
+.errorNotice {
+    color: #dc3545;
+    text-transform: capitalize;
+    font-size: 12px;
+    padding: 6px 0 3px 0;
+}

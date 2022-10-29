@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-content: center;
+    
+}
+
+.logo{
+    font-weight: 700;
+    margin: 5px 0 0 5px;
+    font-size: 26px;
+}
+
+.logo a {
+    text-decoration: none;
+    color: #5f7d95;
+}
+
+.authContainer {
+    margin: 5px 0 0 5px;
+}
+
+.authContainer a{
+    color: #5f7d95;
+    text-transform: capitalize;
+    border-right: 1px solid #5f7d95;
+    text-decoration: none;
+}
+
+.authContainer button{
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    background-color: rgb(206, 131, 131);
+    margin-left: 5px;
+    font-size: 13px;
+    font-weight: normal;
+    text-decoration: none;
+    
+   }
+
+
+.auth {
+    margin-top: 12px;
+}
+
+.authBtns a{
+    margin: 5px;
+}

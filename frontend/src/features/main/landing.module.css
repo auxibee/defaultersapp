@@ -1,0 +1,20 @@
+.container {
+    max-width: 400px;
+    border: 1px solid #eff0f1;
+    margin: 250px auto;
+    padding: 10px;
+    text-align: center;
+    background: #eff0f1;
+    border-radius: 5px;
+}
+
+.container h1 {
+    font-size: 24px;
+    font-weight: 600;
+    padding: 20px 0 20px 0;
+}
+
+.container a {
+    font-size: 16px;
+    font-weight: 400;
+}

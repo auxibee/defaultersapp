@@ -1,0 +1,33 @@
+body {
+    color: #333;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+
+.loading {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .loading svg {
+    height: 40px;
+    width: 40px;
+  }
+
+  a {
+    color: #337ab7;
+  }
+
+  .notice{
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  .add-defaulter-btn {
+    width: 100px;
+    margin: 10px auto;
+    
+  }
+  
