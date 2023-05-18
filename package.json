@@ -1,0 +1,17 @@
+{
+  "name": "tailwindtuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/styles.css -o public/build/styles.css"
+  },
+  "keywords": [],
+  "author": "'yaw <'auxibee@gmail.com'>",
+  "license": "'MIT'",
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "postcss-cli": "10.1.0",
+    "tailwindcss": "3.3.2"
+  }
+}
